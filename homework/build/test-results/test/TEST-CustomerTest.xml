@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-08-06T10:51:43" hostname="LAPTOP-NCR5GMRE" time="0.085">
+  <properties/>
+  <testcase name="ÐŸÑ€Ð¾Ð²ÐµÑ€Ñ�ÐµÐ¼, Ñ‡Ñ‚Ð¾ ÐºÐ»Ð°Ñ�Ñ� Customer Ð½Ðµ Ñ�Ð»Ð¾Ð¼Ð°Ð½" classname="CustomerTest" time="0.058"/>
+  <testcase name="ÐžÐ±ÑŠÐµÐºÑ‚ Customer ÐºÐ°Ðº ÐºÐ»ÑŽÑ‡ Ð² ÐºÐ°Ñ€Ñ‚Ðµ" classname="CustomerTest" time="0.001"/>
+  <testcase name="ÐœÐ¾Ð´Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ� ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ð¸" classname="CustomerTest" time="0.009"/>
+  <testcase name="Ð¡Ð¾Ñ€Ñ‚Ð¸Ñ€Ð¾Ð²ÐºÐ° Ð¿Ð¾ Ð¿Ð¾Ð»ÑŽ score, Ð¸Ñ‚ÐµÑ€Ð°Ñ†Ð¸Ñ� Ð¿Ð¾ Ð²Ð¾Ð·Ñ€Ð°Ñ�Ñ‚Ð°Ð½Ð¸ÑŽ" classname="CustomerTest" time="0.002"/>
+  <testcase name="Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°Ð½Ð¸Ðµ Ð² Ð¾Ð±Ñ€Ð°Ñ‚Ð½Ð¾Ð¼ Ð¿Ð¾Ñ€Ñ�Ð´ÐºÐµ" classname="CustomerTest" time="0.013"/>
+  <system-out><![CDATA[Ivan - 135393315
+Petr - 146771361
+Pavel - 241644010
+Ivan - 135393315
+Petr - 146771361
+Pavel - 241644010
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
